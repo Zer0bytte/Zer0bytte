@@ -1,24 +1,72 @@
-<h1 align="center">Hi 👋, I'm Marko</h1>
-<h3 align="center">BackEnd Developer</h3>
+# 👋 Hi there, I'm Marko
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zer0bytte&label=Profile%20views&color=0e75b6&style=flat" alt="zer0bytte" /> </p>
+🎯 **Backend .NET Developer**  
+📍 Cairo, Egypt | 📧 marko.medhat.eg@gmail.com | 📱 01279245501  
+🔗 [LinkedIn – Marko Medhat](https://www.linkedin.com/in/marko-medhat)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zer0bytte" alt="zer0bytte" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Backend Projects**
+I'm a motivated and detail-oriented **.NET Backend Developer** passionate about building clean, scalable, and high-performance backend solutions. I thrive in team environments and also enjoy taking initiative on individual tasks. With hands-on experience in **Clean Architecture**, **CQRS**, and RESTful APIs, I’m eager to contribute to forward-thinking teams that value quality code, collaboration, and innovation.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/zer0bytte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zer0bytte" height="30" width="40" /></a>
-</p>
+Currently a final-year **Computer Science student** at *Pharaohs Higher Institute*, I’ve already contributed to production-grade systems across sectors like e-commerce, government services, and customer engagement platforms using **WhatsApp Business API** and **Instagram API** integrations.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zer0bytte&show_icons=true&locale=en&layout=compact" alt="zer0bytte" /></p>
+## 💼 Work Experience
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zer0bytte&show_icons=true&locale=en" alt="zer0bytte" /></p>
+### 📌 Info Sender – Backend .NET Developer *(Remote | Oct 2024 – Present)*  
+**Info Sender** is a certified Meta Business Partner offering enterprise messaging solutions via WhatsApp, Instagram, and more.  
+- Developed backend services using **.NET Core**, **C#**, **Entity Framework Core**, and **SQL Server**  
+- Built modular APIs for **WhatsApp Business API** and **Instagram**, using **CQRS**, **SOLID**, and **Clean Architecture**  
+- Ensured seamless authentication via **JWT**, and secure real-time communication via **SignalR**  
+- Supported Meta Tech Provider verification preparation
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zer0bytte&" alt="zer0bytte" /></p>
+---
+
+## 🧠 Technical Skills
+
+- **Languages**: C#, SQL  
+- **Frameworks**: ASP.NET Core, ASP.NET MVC  
+- **Tools**: Git, GitHub, MassTransit, SignalR  
+- **Patterns & Concepts**: OOP, SOLID, Design Patterns, Clean Architecture, CQRS, Mediator  
+- **Database**: SQL Server, Entity Framework Core  
+- **Other**: JWT, GRPC, Fluent Validation, Stripe API
+
+---
+
+## 🛠️ Projects
+
+### 🛒 Ecommerce Web API  
+A scalable Amazon-like backend system built with ASP.NET Core Web API.  
+🔐 JWT Auth | 🛍️ Products, Orders, Cart | 💳 Stripe Payment Integration | 🧱 Clean Architecture
+
+### 📱 Social Media API  
+A real-time messaging and content-sharing platform using ASP.NET Web API.  
+💬 SignalR | 🛡️ OAuth + JWT | 📡 Notifications | 📂 Scalable RESTful API
+
+### 📚 Bookify – Book Rental App  
+An ASP.NET MVC app for library management and book rental services.  
+📖 Role-based Admin Panel | 📅 Rental Tracking | 🔍 Advanced Book Search | 💸 Penalty System
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Science** *(Expected 2025)*  
+Pharaohs Higher Institute for Computers and Administrative Sciences  
+Focus: Software Development, System Design, and Backend Engineering
+
+---
+
+## 🌐 Languages
+
+- Arabic: Native  
+- English: Intermediate  
+
+---
+
+> ⚙️ Always building. Always learning.  
+> Let’s connect and create something great together!
+
