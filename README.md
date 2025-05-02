@@ -60,13 +60,6 @@ Focus: Software Development, System Design, and Backend Engineering
 
 ---
 
-## 🌐 Languages
-
-- Arabic: Native  
-- English: Intermediate  
-
----
-
 > ⚙️ Always building. Always learning.  
 > Let’s connect and create something great together!
 
