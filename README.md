@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Marko
 
 🎯 **Backend .NET Developer**  
-📍 Cairo, Egypt | 📧 marko.medhat.eg@gmail.com | 📱 01279245501  
+📍 Cairo, Egypt | 📧 marko.medhat.eg@gmail.com | 📱 +201279245501  
 🔗 [LinkedIn – Marko Medhat](https://www.linkedin.com/in/marko-medhat)
 
 ---
