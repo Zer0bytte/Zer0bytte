@@ -10,7 +10,7 @@
 
 I'm a motivated and detail-oriented **.NET Backend Developer** passionate about building clean, scalable, and high-performance backend solutions. I thrive in team environments and also enjoy taking initiative on individual tasks. With hands-on experience in **Clean Architecture**, **CQRS**, and RESTful APIs, I’m eager to contribute to forward-thinking teams that value quality code, collaboration, and innovation.
 
-Currently a final-year **Computer Science student** at *Pharaohs Higher Institute*, I’ve already contributed to production-grade systems across sectors like e-commerce, government services, and customer engagement platforms using **WhatsApp Business API** and **Instagram API** integrations.
+Currently a final-year **Computer Science student** at *Pharaohs Higher Institute*, I’ve already contributed to production-grade systems across sectors like e-commerce,  and customer engagement platforms using **WhatsApp Business API** and **Instagram API** integrations.
 
 ---
 
